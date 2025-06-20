@@ -1,0 +1,2 @@
+<link rel="shortcut icon" type="image/png" href="{{asset('Dashboard_assets/assets/images/logos/favicon.png')}}" />
+<link rel="stylesheet" href="{{asset('Dashboard_assets/assets/css/styles.min.css')}}" />
